@@ -1,4 +1,4 @@
-# 🏠 AI Real Estate Assistant
+﻿# 🏠 AI Real Estate Assistant
 
 <div align="center">
 
@@ -300,7 +300,7 @@ npm --version       # ≥ 10
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/m-shamim09/AI-Real-Estate-Assistant
+git clone https://github.com/agentic-saim09/AI-Real-Estate-Assistant
 cd ai-real-estate-assistant
 ```
 
@@ -655,7 +655,7 @@ We welcome contributions! Here's how to get started:
 ### 1. Fork & Clone
 
 ```bash
-git fork https://github.com/m-shamim09/AI-Real-Estate-Assistant
+git fork https://github.com/agentic-saim09/AI-Real-Estate-Assistant
 git clone <your-fork>
 ```
 
@@ -735,8 +735,8 @@ copies of the Software...
 
 ## Author & Contact
 
-- **Author:** Muhammad Shamim
-- **GitHub:** [@m-shamim09](https://github.com/m-shamim09)
-- **Email:** [mshamim.work@gmail.com](mailto:mshamim.work@gmail.com)
-- **Profile:** https://github.com/m-shamim09
+- **Author:** Agentic Saim
+- **GitHub:** [@agentic-saim09](https://github.com/agentic-saim09)
+- **Email:** [agenticsaim.work@gmail.com](mailto:agenticsaim.work@gmail.com)
+- **Profile:** https://github.com/agentic-saim09
 
